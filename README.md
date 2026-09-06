@@ -39,8 +39,8 @@ lib/marketplace.ts   Mock asynchronous product/EMI data source and types
 
 | Marketplace catalogue | Product details |
 | --- | --- |
-| ![Marketplace catalogue](<Screenshots/WhatsApp Image 2026-09-06 at 2.32.45 PM.jpeg>) | ![Product details](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.05 PM.jpeg>) |
+| ![Marketplace catalogue](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM.jpeg>) | ![Product details](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM (1).jpeg>) |
 
 | EMI plan selection | Plan confirmation |
 | --- | --- |
-| ![EMI plan selection](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM (1).jpeg>) | ![Plan confirmation](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM.jpeg>) |
+| ![EMI plan selection](<Screenshots/WhatsApp Image 2026-09-06 at 2.32.45 PM.jpeg>) | ![Plan confirmation](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.05 PM.jpeg>) |
