@@ -1,6 +1,6 @@
 # 1Fi Marketplace - SDE Intern Assignment
 
-A standalone Expo/React Native implementation of the requested **1Fi Marketplace** feature. It was built as a separate application because the assignment did not provide a 1Fi source repository or backend API.
+Implementation approach: Since the assignment did not provide access to the existing 1Fi source repository or backend API, this submission implements the Marketplace as a standalone Expo/React Native application. The existing 1Fi Android app was used as a reference for the Shop experience and visual language.
 
 ## What is implemented
 
@@ -10,16 +10,27 @@ A standalone Expo/React Native implementation of the requested **1Fi Marketplace
 - Async mock repository (`lib/marketplace.ts`) that deliberately simulates API latency. UI components do not hardcode product or EMI data.
 - Loading, retry/error, empty-search, and unavailable-product states.
 
-## Run locally
+## Getting Started
 
-Prerequisite: Node.js 18+ and the Expo Go Android app (or an Android emulator).
+### Requirements
 
-```bash
+- Node.js 18+
+- Expo Go
+- Android phone or Android emulator
+
+### Installation
+
 npm install
-npx expo start
-```
 
-Scan the QR code in Expo Go, or press `a` to run with a configured Android emulator.
+### Start
+
+npx expo start
+
+### Run on Android
+
+Press `a`
+
+or scan the QR code using Expo Go.
 
 ## Architecture
 
@@ -28,6 +39,26 @@ app/                 Screens and Expo Router navigation
 components/ui.tsx    Shared visual components and design tokens
 lib/marketplace.ts   Mock asynchronous product/EMI data source and types
 ```
+
+## Assignment Coverage
+
+| Requirement | Status |
+|---|---|
+| Top Brands | Implemented as blank state |
+| Nearby Stores | Implemented as blank state |
+| 1Fi Marketplace | Implemented |
+| Product listing | ✓ |
+| Product images | ✓ |
+| Product pricing | ✓ |
+| Product variants | ✓ |
+| EMI plans | ✓ |
+| EMI selection | ✓ |
+| Proceed CTA | ✓ |
+| Mock data source | ✓ |
+| Loading state | ✓ |
+| Error/retry state | ✓ |
+| Empty state | ✓ |
+
 
 ## Assumptions
 
