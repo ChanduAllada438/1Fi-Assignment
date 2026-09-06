@@ -37,7 +37,7 @@ lib/marketplace.ts   Mock asynchronous product/EMI data source and types
 
 ## Screenshots
 
-| Marketplace catalogue | Product details |
+| Marketplace catalogue | Product Searching |
 | --- | --- |
 | ![Marketplace Catalogue](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM (1).jpeg>) | ![Product Searching](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM.jpeg>) |
 
