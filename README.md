@@ -14,7 +14,7 @@ Implementation approach: Since the assignment did not provide access to the exis
 
 ### Requirements
 
-- Node.js 18+
+- Node.js 22.13+
 - Expo Go
 - Android phone or Android emulator
 
