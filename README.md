@@ -34,3 +34,13 @@ lib/marketplace.ts   Mock asynchronous product/EMI data source and types
 - The product catalogue, images, eligibility data, and EMI calculations are mocked because no backend contract was supplied.
 - All EMI options are labelled no-cost to match the product premise in the assignment. A real integration would obtain eligibility and final plan values server-side before confirmation.
 - The existing 1Fi app screenshots were used only as visual reference; no proprietary code or assets were copied.
+
+## Screenshots
+
+| Marketplace catalogue | Product details |
+| --- | --- |
+| ![Marketplace catalogue](<Screenshots/WhatsApp Image 2026-09-06 at 2.32.45 PM.jpeg>) | ![Product details](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.05 PM.jpeg>) |
+
+| EMI plan selection | Plan confirmation |
+| --- | --- |
+| ![EMI plan selection](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM (1).jpeg>) | ![Plan confirmation](<Screenshots/WhatsApp Image 2026-09-06 at 2.33.32 PM.jpeg>) |
